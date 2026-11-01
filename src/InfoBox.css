@@ -1,0 +1,11 @@
+.InfoBox{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 40vh;
+}
+.style{
+    color:rgb(36, 36, 80);
+}
+
